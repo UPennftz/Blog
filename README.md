@@ -62,7 +62,7 @@ The project includes user authentication and CRUD (Create, Read, Update, Delete)
 #### 项目结构
 这个项目包含两个主要部分：`blog-backend` 和 `blog-frontend`。
 
-##### blog-backend
+##### blog-backend后端部分
 - **功能**: 提供博客的后端服务。
 - **技术栈**: 使用 Node.js 和 Express 构建。
 - **主要文件和目录**:
@@ -79,7 +79,7 @@ The project includes user authentication and CRUD (Create, Read, Update, Delete)
     - `db.js`: 数据库连接配置。
   - `node_modules/`: 项目依赖库。
 
-##### blog-frontend
+##### blog-frontend前端部分
 - **功能**: 提供博客的前端界面。
 - **技术栈**: 使用 React 和 Redux 构建。
 - **主要文件和目录**:
