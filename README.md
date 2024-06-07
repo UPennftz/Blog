@@ -1,2 +1,2 @@
 # Blog
-Source code backup in UofG
+Source Code Backup for UofG Master's Course Projects
