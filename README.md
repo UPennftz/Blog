@@ -1,5 +1,5 @@
 # Blog
-Source Code Backup for UofG Master's Course Projects
+Source Code Backup for University of Glasgow Master's Course Projects
 
 ## English Version
 
