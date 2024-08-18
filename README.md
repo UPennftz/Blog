@@ -7,6 +7,8 @@ Source Code Backup for Master Course Projects in University of Glasgow
 数据通信：负责前后端的数据交互、数据传输、处理响应。通过优化处理流程，响应时间平均缩短10%。
 前端开发：在request.js中集成后端API响应处理请求。用户界面更加流畅，用户反馈满意度平均提升20%。
 后端开发：在urls.py中配置和管理API路由，处理前端请求并调用相应视图进行数据处理。测试阶段平台日活跃用户数达到用户总数的75%。
+
+
 ## 中文版说明
 
 ### 项目信息
