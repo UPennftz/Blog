@@ -9,7 +9,7 @@
 2.前端开发：在request.js中集成后端API响应处理请求。用户界面更加流畅，用户反馈满意度平均提升20%。  
 3.后端开发：在urls.py中配置和管理API路由，处理前端请求并调用相应视图进行数据处理。测试阶段平台日活跃用户数达到用户总数的75%。  
 
-Innovative Technology Integration and Interaction Design: Construction and Practice of a Decoupled Frontend-Backend Social Platform Based on Vue and Django
+Innovative Technology Integration and Interaction Design: Construction and Practice of a Decoupled Frontend-Backend Social Platform Based on Vue and Django  
 January 2024 - April 2024  
 Technology Stack: Vue, Django, Python, JavaScript, HTML, CSS, SQL  
 Project Overview: Collaboratively developed a social sharing platform. Implemented user registration, login, content posting, commenting, and liking functionalities.  
