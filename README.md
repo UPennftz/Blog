@@ -29,7 +29,7 @@ Key Contributions:
 3. Back-end Development: Configured and managed API routes in urls.py, processed front-end requests, and called corresponding views for data processing. During the testing phase, the platform's daily active users reached 75% of the total user base.  
   
   
-Source Code Backup for Master Course Projects in University of Glasgow  
+  
 
 ## 中文版说明
 
@@ -86,7 +86,7 @@ Source Code Backup for Master Course Projects in University of Glasgow
 项目示例包括用户认证、博客文章的创建、读取、更新和删除 (CRUD) 操作，适合用于学习和参考如何构建一个全栈应用。
 
 ## English Version
-
+Source Code Backup for Master Course Projects in University of Glasgow
 ### Project Information
 
 #### Project Structure
@@ -138,4 +138,4 @@ This is a full-stack blog application example. The frontend is built using React
 - **Backend**: Node.js and Express handle API requests, using Mongoose to connect to MongoDB for data storage.
 
 The project includes user authentication and CRUD (Create, Read, Update, Delete) operations for blog posts. It serves as a useful reference for learning how to build a full-stack application.
-
+  
