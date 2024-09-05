@@ -4,7 +4,7 @@
 
 2024年01月-2024年04月  
   
-技术栈：Vue, Django, Python, JavaScript, HTML, CSS, SQL  
+技术栈：Vue, Django, Python, SQL  
   
 项目概述：合作开发了一个社交分享平台。实现了用户注册、登录、内容发布、评论和点赞等交互功能。  
   
